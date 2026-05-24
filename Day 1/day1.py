@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1850r-sWnoPVrllrjQg5v4bOkmhBMUG_5
 """
 
-print("Hello Aditya, Welcome to Python")
+print("Hello Aditya, Welcome to Python") 
 
 name = input("Enter your name: ")
 print( "Hello", name)
